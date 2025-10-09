@@ -10,12 +10,13 @@ ddw_username: ec2-user
 
 # ServiceNow Credentials
 snow_url: https://ven???.service-now.com
-snow_username: USERNAME
-servicenow_passwd: PASSWORD
+snow_username: service.ansible
+servicenow_passwd: default_passwd goes here
 
 # My Laptop key
 ssh_priv_key: |
  -----BEGIN RSA PRIVATE KEY-----
+ the indention is everthing on this
  -----END RSA PRIVATE KEY-----
 
 dyna_key: 123456_my_secret_key_is_here
