@@ -29,3 +29,6 @@ red_hat_auto_hub_token: |
 
 my_ctrl_username: USERNAME
 my_ctrl_admin_password: PASSWORD
+
+# My admin password Panos daily demo
+admin_password: PASSWORD
