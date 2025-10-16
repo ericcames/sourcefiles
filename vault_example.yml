@@ -36,3 +36,7 @@ admin_password: PASSWORD
 # registry.redhat.io creds
 reg_rh_io_passwd: PASSWORD
 reg_rh_io_username: USER
+
+# quay.io creds
+quay_passwd: PASSWORD
+quay_username: USERNAME
