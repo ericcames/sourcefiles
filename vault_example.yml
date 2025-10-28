@@ -14,6 +14,7 @@ snow_username: service.ansible
 servicenow_passwd: default_passwd goes here
 
 # My Laptop key
+# Use an RSA key for this because AWS likes it
 ssh_priv_key: |
  -----BEGIN RSA PRIVATE KEY-----
  the indention is everthing on this
