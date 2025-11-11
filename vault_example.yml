@@ -28,9 +28,6 @@ vault_passwd: PASSWORD
 red_hat_auto_hub_token: |
  ZXNzIn0._kQ0Dit
 
-my_ctrl_username: USERNAME
-my_ctrl_admin_password: PASSWORD
-
 # My admin password Panos daily demo
 admin_password: PASSWORD
 
