@@ -38,3 +38,7 @@ reg_rh_io_username: USER
 # quay.io creds
 quay_passwd: PASSWORD
 quay_username: USERNAME
+
+# Red Hat Customer portal creds
+customer_portal_username: Username
+customer_portal_password: PASSWORD
